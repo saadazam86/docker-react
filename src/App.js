@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Ocean is Blue!
+          Ocean is Blue and there is a newly created feature branch!
         </p>
         <a
           className="App-link"
